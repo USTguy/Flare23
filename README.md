@@ -5,6 +5,7 @@ Follow the instructions of nn-UNet to learn a teacher model with labeled data. T
 
 Generate pseudo labels using nn-unet for unlabeled data.
 
-Our checkpoints and generate pseudo labels are available at Baiduyun.
+Our checkpoints and generate pseudo labels are available at Baiduyun. Link：https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111 
+Code：1111
 
 More details are coming!
