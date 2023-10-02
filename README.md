@@ -23,7 +23,11 @@ pip install -e .
 
 ## ⬇️ Download Checkpoints
 
-Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111 ). Code：1111
+Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111). Code：1111
+
+## 🚀 Training
+
+Our training process is totally depending on nnunetV2. Thus, you can find all the details in [nnunet](https://github.com/MIC-DKFZ/nnUNet)
 
 ## 🚀 Ensemble Pseudo labels
 
