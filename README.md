@@ -25,6 +25,14 @@ pip install -e .
 
 Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111 ). Code：1111
 
+## 🚀 Ensemble Pseudo labels
+
+```
+python ensemble.py
+```
+
+The 'ensemble.py' is in the process directory. You SHOULD modify your defined paths of pseudo labels first!
+
 ## 🚀 Inference
 
 1. Place your input images in the `./inputs` directory.
