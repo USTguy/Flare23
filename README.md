@@ -1,16 +1,12 @@
-# 🔥 FLARE23 Solution
+# FLARE23 Solution
 
-This repository contains our solution for the FLARE23 challenge, based on nnU-Netv2.
+This repository contains our solution "Iterative Semi-Supervised Learning for Abdominal Organs and Tumor Segmentation" for the FLARE23 challenge, based on nnU-Netv2.
 
 ## 🔍 Overview
 
 Our approach is based on interative SSL, which employs a multi-stage pseudo-labeling method to tackle the issue of partial labels for organs and tumors in the FLARE23 dataset. For more details, see the pipeline diagram below:
 
 <img src="./assets/pipeline.png" alt="Pipeline" width="600"/>
-
-Additionally, we present a speed comparison for inference, both before and after optimizations on nnU-Netv2. The following diagram illustrates the improvements:
-
-<img src="./assets/efficiency.png" alt="Efficiency Comparison" width="600"/>
 
 ## ⚙️ Environment Setup
 
