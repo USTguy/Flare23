@@ -6,7 +6,7 @@ This repository contains our solution "Iterative Semi-Supervised Learning for Ab
 
 Our approach is based on interative SSL, which employs a multi-stage pseudo-labeling method to tackle the issue of partial labels for organs and tumors in the FLARE23 dataset. For more details, see the pipeline diagram below:
 
-<img src="./assets/pipeline.png" alt="Pipeline" width="600"/>
+<img src="./frame.png" alt="Pipeline" width="600"/>
 
 ## ⚙️ Environment Setup
 
