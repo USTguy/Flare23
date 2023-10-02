@@ -13,8 +13,8 @@ Our approach is based on interative SSL, which employs a multi-stage pseudo-labe
 To set up the environment, follow these steps:
 
 ```
-conda create -n FLARE23_blackbean
-conda activate FLARE23_blackbean
+conda create -n FLARE23
+conda activate FLARE23
 ```
 Then make sure to install PyTorch 2 compatible with your CUDA version.
 ```
@@ -23,7 +23,7 @@ pip install -e .
 
 ## ⬇️ Download Checkpoints
 
-Download the `checkpoint_final.pth` file from [BaiduNetDisk](https://pan.baidu.com/s/1Nt_ZD2lyp4mS9UA5Xeajuw?pwd=jip3). Place it in the `./model/fold_all/` directory.
+Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111 ). Code：1111
 
 ## 🚀 Inference
 
