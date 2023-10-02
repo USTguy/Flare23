@@ -21,13 +21,15 @@ Then make sure to install PyTorch 2 compatible with your CUDA version.
 pip install -e .
 ```
 
-## ⬇️ Download Checkpoints
-
-Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111). Code：1111
-
 ## 🚀 Training
 
 Our training process is totally depending on nnunetV2. Thus, you can find all the details in [nnunet](https://github.com/MIC-DKFZ/nnUNet)
+
+## ⬇️ Download Checkpoints
+
+Download the checkpoints and pseudo labels from [BaiduNetDisk](https://pan.baidu.com/s/1yFmK8WZifE-EhFQTcfsYtA?pwd=1111). Code：1111
+Or you can directly use our generated pseudo labels.
+
 
 ## 🚀 Ensemble Pseudo labels
 
